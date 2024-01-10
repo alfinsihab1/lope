@@ -1,0 +1,138 @@
+{
+    "data" : 
+    [
+        {
+            "id": 1,
+            "title": "Digital Marketing",
+            "type" : "reguler",
+            "content" : "Digital marketing adalah serangkaian strategi pemasaran yang dilakukan menggunakan media digital...",
+            "image_url": "https://campusdigital.id/assets/images/program/Digital%20Marketing.png"
+        },
+        {
+            "id": 2,
+            "title": "Graphic Design",
+            "type" : "reguler",
+            "content" : "Program pelatihan dan pembelajaran praktis desain grafis.",
+            "image_url": "https://campusdigital.id/assets/images/program/Graphic%20Design.png"
+        },
+        {
+            "id": 3,
+            "title": "Komputer Perkantoran",
+            "type" : "reguler",
+            "content" : "Program pelatihan dan pembelajaran praktis komputer perkantoran",
+            "image_url": "https://campusdigital.id/assets/images/program/Operator%20Komputer%20Muda.png"
+        },
+        {
+            "id": 4,
+            "title": "Web Designer",
+            "type" : "reguler",
+            "content" : "Program Pelatihan dan Pembelajaran praktis membuat website",
+            "image_url": "https://campusdigital.id/assets/images/program/Web%20Designer.png"
+        },
+        {
+            "id": 5,
+            "title": "Web Developer",
+            "type" : "reguler",
+            "content" : "Seorang web developer adalah seseorang yang terlibat dalam pembuatan dan pengembangan situs web",
+            "image_url": "https://campusdigital.id/assets/images/program/Web%20Developer.png"
+        },
+        {
+            "id": 6,
+            "title": "Video Editor",
+            "type" : "reguler",
+            "content" : "Pelatihan video editor membuka pintu bagi peluang karir yang menarik dan mengembangkan keterampilan",
+            "image_url": "https://campusdigital.id/assets/images/program/Video%20Editor.png"
+        },
+        {
+            "id": 7,
+            "title": "Fotografi",
+            "type" : "reguler",
+            "content" : "Pelatihan fotografi memberikan kesempatan untuk mengembangkan keterampilan teknis dan kreatif",
+            "image_url": "https://campusdigital.id/assets/images/program/Photography.png"
+        },
+        {
+            "id": 8,
+            "title": "Multimedia",
+            "type" : "reguler",
+            "content" : "Pelatihan multimedia memberikan Anda keterampilan yang diperlukan untuk menghasilkan konten multimedia",
+            "image_url": "https://campusdigital.id/assets/images/program/Multimedia.png"
+        },
+        {
+            "id": 9,
+            "title": "Game Developer",
+            "type" : "reguler",
+            "content" : "Dengan pelatihan game development yang baik, Anda dapat mengembangkan keterampilan dan pengetahuan",
+            "image_url": "https://campusdigital.id/assets/images/program/Game%20Developer.png"
+        },
+        {
+            "id": 10,
+            "title": "Social Media Specialist",
+            "type" : "reguler",
+            "content" : "Program pelatihan dan pembelajaran praktis social media specialist",
+            "image_url": "https://campusdigital.id/assets/images/program/Social%20Media%20Specialist.png"
+        },
+        {
+            "id": 11,
+            "title": "Mobile Programmer",
+            "type" : "reguler",
+            "content" : "Menguasai bahasa pemrograman mobileMampu mengembangkan aplikasi mobileDapat bekerja dalam tim",
+            "image_url": "https://campusdigital.id/assets/images/program/Mobile%20Programming.png"
+        },
+        {
+            "id": 12,
+            "title": "Peningkatan Kompetensi Digital Marketing",
+            "type" : "corporate",
+            "content" : "Program pelatihan dan pembelajaran praktis pemasaran digital.",
+            "image_url": "https://campusdigital.id/assets/images/program/Peningkatan%20Kompetnesi%20Digital%20Marketing.png"
+        },
+        {
+            "id": 13,
+            "title": "Praktek Kerja Industri Daring",
+            "type" : "corporate",
+            "content" : "Program pelatihan dan pembelajaran praktis desain grafis",
+            "image_url": "https://campusdigital.id/assets/images/program/Praktik%20Kerja%20Industri.png"
+        },
+        {
+            "id": 14,
+            "title": "Kelas Industri Teknologi Digital",
+            "type" : "corporate",
+            "content" : "Mengikuti program Kelas Industri Teknologi Digital akan memberikan Anda keunggulan kompetitif ",
+            "image_url": "https://campusdigital.id/assets/images/program/Kelas%20Industri%20Teknologi%20Digital.png"
+        },
+        {
+            "id": 15,
+            "title": "Training For Trainer",
+            "type" : "corporate",
+            "content" : "Membantu mengembangkan materi pelatihan yang efektifMeningkatkan kemampuan berkomunikasi",
+            "image_url": "https://campusdigital.id/assets/images/program/Training%20For%20Trainer.png"
+        },
+        {
+            "id": 16,
+            "title": "Uji Kompetensi Teknologi Digital",
+            "type" : "corporate",
+            "content" : "Meningkatkan pengetahuan dalam industry digitalMemberi Wawasan merencanakan Langkah Langkah",
+            "image_url": "https://campusdigital.id/assets/images/program/Uji%20Kompetensi%20Teknologi%20Digital.png"
+        },
+        {
+            "id": 17,
+            "title": "Beasiswa",
+            "type" : "corporate",
+            "content" : "Membantu mengurangi beban keuangan yeng terkait dengan PendidikanPengakuan prestasi",
+            "image_url": "https://campusdigital.id/assets/images/program/Beasiswa.png"
+        },
+        {
+            "id": 18,
+            "title": "Inhouse Training",
+            "type" : "corporate",
+            "content" : "Melalui program in-house training, perusahaan dapat meningkatkan kompetensi karyawan",
+            "image_url": "https://campusdigital.id/assets/images/program/Inhouse%20Training.png"
+        },
+        {
+            "id": 19,
+            "title": "UMKM Go Digital",
+            "type" : "corporate",
+            "content" : "Membantu UMKM memanfaatkan teknologi digitalMembantu relevan dan up to date",
+            "image_url": "https://campusdigital.id/assets/images/program/UMKM%20Go%20Digital.png"
+        }
+    ]
+}
