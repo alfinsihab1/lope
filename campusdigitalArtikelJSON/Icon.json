@@ -1,0 +1,200 @@
+{
+    "data" : [
+        {
+            "id" : 0,
+            "name" : "UNNES",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-11-45-50.png"
+        },
+        {
+            "id" : 1,
+            "name" : "UNDIP",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-46-40.png"
+        },
+        {
+            "id" : 2,
+            "name" : "UNISBANK",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2021-06-15-15-05-15.png"
+        },
+        {
+            "id" : 3,
+            "name" : "UPGRIS",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-12-01-15.png"
+        },
+        {
+            "id" : 4,
+            "name" : "UNIVERSITAS WAHID HASYIM",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-43-40.png"
+        },
+        {
+            "id" : 5,
+            "name" : "UNIVERSITAS PANDANARAN",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2021-06-15-15-09-26.png"
+        },
+        {
+            "id" : 6,
+            "name" : "SMK NEGERI 1 KEBUMEN",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2021-06-15-15-07-27.png"
+        },
+        {
+            "id" : 7,
+            "name" : "SMK MUHAMADIYAH 1 SEMARANG",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2021-06-15-15-07-59.png"
+        },
+        {
+            "id" : 8,
+            "name" : "SMK MUHAMADIYAH 1 JATINOM",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2021-06-15-15-08-20.png"
+        },
+        {
+            "id" : 9,
+            "name" : "SMK MUHAMADIYAH 1 WATES",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2021-06-15-15-08-41.png"
+        },
+        {
+            "id" : 10,
+            "name" : "SMK NEGERI 6 SURAKARTA",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2021-06-15-15-09-01.png"
+        },
+        {
+            "id" : 11,
+            "name" : "SMK MA'ARIF NU 1 BENER",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-19-12-25.png"
+        },
+        {
+            "id" : 12,
+            "name" : "SMK NEGERI 9 SEMARANG",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2021-06-15-15-10-06.png"
+        },
+        {
+            "id" : 13,
+            "name" : "SMK NEGERI 1 WONOGIRI",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2021-06-15-15-10-25.png"
+        },
+        {
+            "id" : 14,
+            "name" : "SMK BHAKTI KUDUS",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2021-07-16-16-06-09.png"
+        },
+        {
+            "id" : 15,
+            "name" : "SMK TEUKU UMAR SEMARANG",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-47-45.png"
+        },
+        {
+            "id" : 16,
+            "name" : "SMK NU 01 KENDAL",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-48-13.png"
+        },
+        {
+            "id" : 17,
+            "name" : "SMK NEGERI 5 SEMARANG",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-48-30.png"
+        },
+        {
+            "id" : 18,
+            "name" : "SMK NEGERI 1 SRAGEN",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-50-08.png"
+        },
+        {
+            "id" : 19,
+            "name" : "SMK NEGERI 1 SRAGEN",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-50-25.png"
+        },
+        {
+            "id" : 20,
+            "name" : "SMK NEGERI 1 SALATIGA",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-50-25.png"
+        },
+        {
+            "id" : 21,
+            "name" : "SMK NEGERI 1 POSO",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-50-45.png"
+        },
+        {
+            "id" : 22,
+            "name" : "SMK NEGERI 1 NGABLAK",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-51-05.png"
+        },
+        {
+            "id" : 23,
+            "name" : "SMK NEGERI 1 JUWIRING KLATEN",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-51-24.png"
+        },
+        {
+            "id" : 24,
+            "name" : "SMK NEGERI 1 JEPARA",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-51-38.png"
+        },
+        {
+            "id" : 25,
+            "name" : "SMK NEGERI 1 BINJAI",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-51-54.png"
+        },
+        {
+            "id" : 26,
+            "name" : "SMK 17 AGUSTUS SEMARANG",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-02-15-14-52-21.png"
+        },
+        {
+            "id" : 27,
+            "name" : "SMK NEGERI 3 JEPARA",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-12-08-13.png"
+        },
+        {
+            "id" : 28,
+            "name" : "SMK KOMPUTAMA MAJENANG",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-12-12-10.png"
+        },
+        {
+            "id" : 29,
+            "name" : "SMK TELKOM PURWOKERTO",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-12-16-00.png"
+        },
+        {
+            "id" : 30,
+            "name" : "SMK YAYASAN PHARMASI SEMARANG",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-12-19-07.png"
+        },
+        {
+            "id" : 31,
+            "name" : "SMKS KRISTEN BM SALATIGA",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-12-23-29.png"
+        },
+        {
+            "id" : 32,
+            "name" : "SMK NEGERI 2 PEKALONGAN",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-12-26-29.png"
+        },
+        {
+            "id" : 33,
+            "name" : "SMK NEGERI 1 CEPU",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-18-34-25.png"
+        },
+        {
+            "id" : 34,
+            "name" : "SMK MUHAMMADIYAH 1 PEMALANG",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-18-55-38.png"
+        },
+        {
+            "id" : 35,
+            "name" : "SMK NUURUL MUTTAQIN CISARUPAN GARUT",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-18-58-03.png"
+        },
+        {
+            "id" : 36,
+            "name" : "SMK NEGERI 2 MAGELANG",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-19-00-36.png"
+        },
+        {
+            "id" : 37,
+            "name" : "SMK NEGERI 1 PUHPELEM",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-19-05-14.png"
+        },
+        {
+            "id" : 38,
+            "name" : "SMK MUHAMADIYAH 1 CEPU",
+            "image_url" : "https://campusdigital.id/assets/images/mitra/2022-11-05-19-08-53.png"
+        }
+        
+    ]
+}
