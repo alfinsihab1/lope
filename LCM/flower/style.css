@@ -9,6 +9,25 @@
 :root {
   --dark-color: #000;
 }
+.tulisan{
+    color:white;
+    font-size:2vw;
+    justify-content: center;
+    animation:moving-tulisan 4s linear infinite;
+}
+
+@media only screen and (max-width: 700px) {
+    .tulisan{
+        color:white;
+        font-size:4vw;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .tulisan{
+        color:white;
+        font-size:6vw;
+    }
+}
 
 body {
   display: flex;
@@ -68,6 +87,41 @@ body {
 .flower--1 .flower__line__leaf--6 {
   animation: blooming-leaf-left var(--fl-speed) 2s backwards;
 }
+
+.flower--5 {
+    animation: moving-flower-5 4s linear infinite;
+    left:80%;
+  }
+  .flower--5 .flower__line {
+    height: 70vmin;
+    animation-delay: 0.3s;
+    left:80%;
+  }
+  .flower--5 .flower__line__leaf--1 {
+    left:80%;
+    animation: blooming-leaf-right var(--fl-speed) 1.6s backwards;
+  }
+  .flower--5 .flower__line__leaf--2 {
+    left:80%;
+    animation: blooming-leaf-right var(--fl-speed) 1.4s backwards;
+  }
+  .flower--5 .flower__line__leaf--3 {
+    left:80%;
+    animation: blooming-leaf-left var(--fl-speed) 1.2s backwards;
+  }
+  .flower--5 .flower__line__leaf--4 {
+    left:80%;
+    animation: blooming-leaf-left var(--fl-speed) 1s backwards;
+  }
+  .flower--5 .flower__line__leaf--5 {
+    left:80%;
+    animation: blooming-leaf-right var(--fl-speed) 1.8s backwards;
+  }
+  .flower--5 .flower__line__leaf--6 {
+    left:80%;
+    animation: blooming-leaf-left var(--fl-speed) 2s backwards;
+  }
+
 .flower--2 {
   left: 50%;
   transform: rotate(30deg);
@@ -109,6 +163,27 @@ body {
 .flower--3 .flower__line__leaf--4 {
   animation: blooming-leaf-left var(--fl-speed) 1.9s backwards;
 }
+.flower--4 {
+    left: 70%;
+    transform: rotate(-15deg);
+    animation: moving-flower-3 4s linear infinite;
+  }
+  .flower--4 .flower__line {
+    animation-delay: 0.9s;
+  }
+  .flower--4 .flower__line__leaf--1 {
+    animation: blooming-leaf-right var(--fl-speed) 2.5s backwards;
+  }
+  .flower--4 .flower__line__leaf--2 {
+    animation: blooming-leaf-right var(--fl-speed) 2.3s backwards;
+  }
+  .flower--4 .flower__line__leaf--3 {
+    animation: blooming-leaf-left var(--fl-speed) 2.1s backwards;
+  }
+  .flower--4 .flower__line__leaf--4 {
+    animation: blooming-leaf-left var(--fl-speed) 1.9s backwards;
+  }
+
 .flower__leafs {
   position: relative;
   animation: blooming-flower 2s backwards;
@@ -334,6 +409,15 @@ body {
   transform: rotate(-20deg);
   animation: growing-grass-ans--1 2s 2.6s backwards;
 }
+@keyframes moving-tulisan {
+    0%,100%{
+        transform : translateY(-120vh);
+    }
+    50%{
+        transform : translateY(-115vh);
+    }
+}
+
 @keyframes growing-grass-ans--1 {
   0% {
     transform-origin: bottom left;
@@ -909,6 +993,14 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
     filter: blur(1vmin);
   }
 }
+@keyframes moving-flower-5 {
+    0%, 100% {
+      transform: rotate(2deg);
+    }
+    50% {
+      transform: rotate(-2deg);
+    }
+  }
 @keyframes moving-flower-1 {
   0%, 100% {
     transform: rotate(2deg);
