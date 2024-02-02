@@ -11,7 +11,7 @@
 }
 .tulisan{
     color:white;
-    font-size:2vw;
+    font-size:50px;
     justify-content: center;
     animation:moving-tulisan 4s linear infinite;
 }
@@ -19,14 +19,23 @@
 @media only screen and (max-width: 700px) {
     .tulisan{
         color:white;
-        font-size:4vw;
+        font-size:7vw;
     }
+    body {
+      margin: 10%;
+    }
+    
 }
 @media only screen and (max-width: 500px) {
     .tulisan{
         color:white;
         font-size:6vw;
     }
+    body {
+      margin: 10%;
+    }
+    
+
 }
 
 body {
